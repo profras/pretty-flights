@@ -1,9 +1,9 @@
-# ✈️ ES2 - Pretty Flights
+# ES2 - Pretty Flights
 | Repositório para Fins Didáticos <br>
 
 ## Sobre o Repositório
 
-Este repositório serve como uma ferramenta de apoio no desenvolvimento de competências em Engenharia de Software ao longo dos conteúdos do plano de ensino da disciplina.
+Este repositório serve como ferramenta de apoio ao desenvolvimento de competências em Engenharia de Software II ao longo dos conteúdos do plano de ensino da disciplina.
 
 ### Contexto de Uso
 
@@ -19,8 +19,8 @@ Este repositório serve como uma ferramenta de apoio no desenvolvimento de compe
 
 Plataforma de Operações para Aeroportos Internacionais
 
+Domínio Aeroportuário
+
 ## Status do Projeto
 
->
-> **Status do Projeto:** 🚧 <br>
-> *WORK IN PROGRESS* (Em desenvolvimento)
+> *WORK IN PROGRESS* (Em desenvolvimento) 🚧 <br>
