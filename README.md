@@ -1,9 +1,8 @@
 # ES2 - Pretty Flights
-| Repositório para Fins Didáticos <br>
 
 ## Sobre o Repositório
 
-Este repositório serve como ferramenta de apoio ao desenvolvimento de competências em Engenharia de Software II ao longo dos conteúdos do plano de ensino da disciplina.
+Este repositório tem fins exclusivamente didáticos, servindo como ferramenta de apoio ao desenvolvimento de competências em Engenharia de Software II ao longo dos conteúdos do plano de ensino da disciplina.
 
 ### Contexto de Uso
 
