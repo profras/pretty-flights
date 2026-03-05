@@ -31,7 +31,7 @@
 | Termo | Descrição |
 | --- | --- |
 | **Pátio (Apron)** | Área onde as aeronaves estacionam para embarque, desembarque e abastecimento. |
-| **Gate (Portão)** | Interface física entre o terminal e a aeronave. Um desafio crítico de **otimização**. |
+| **Portão (Gate)** | Interface física entre o terminal e a aeronave. Um desafio crítico de **otimização**. |
 | **Finger / Ponte** | Estrutura móvel que conecta o portão diretamente à porta do avião. |
 | **Pushback** | Procedimento de rebocar a aeronave da posição de parada até a *taxiway*. |
 
